@@ -17,8 +17,8 @@ Entra a **[Releases](../../releases/latest)** y descarga:
 
 | Sistema | Archivo |
 |---|---|
-| **Windows 11** | `CeOptiGames-3.4.3-x64-Setup.exe` → doble clic e instalar |
-| **Linux** | `CeOptiGames-3.4.3.AppImage` → clic derecho › Propiedades › Permitir ejecutar, y doble clic |
+| **Windows 11** | el archivo que termina en `-x64-Setup.exe` → doble clic e instalar |
+| **Linux** | el archivo que termina en `.AppImage` → clic derecho › Propiedades › Permitir ejecutar, y doble clic |
 
 > **Windows:** si sale «Windows protegió su PC», pulsa **Más información › Ejecutar de todas formas**. Sale porque CeOptiGames es nuevo y aún no tiene firma digital; es seguro.
 
